@@ -17,12 +17,17 @@ The team hopes that their studies of mental health through social media encourag
 
 
 ## 💡 What's inside the folders
--**Web Scraping Code for Data Collection :** 
- To efficiently collect data, our team used a python notebook with web scraping code. The notebook can be found in this folder. To get specific posts from each university, our team changed the subreddit thread according to each university, and the before and after UNIX codes using data conversions.
 
+**Web Scraping Code for Data Collection:** 
+To efficiently collect data, the team used a python notebook with web scraping code. The notebook can be found in this folder. To get specific posts from each university, the team changed the subreddit thread according to each university, and the before and after UNIX codes using time conversions.
 
--**Final Interactive Dashboard :**
+**Pre-Pandemic Data: EDA, Polarities:** 
+Using the code from the Web Scraping Code folder, the team collected pre-pandemic data for 16 universities. The data is stored in this folder. With the pre-pandemic data, the team calculated specific mental health keyword frequencies per university, as well as the polarity distributions for each university over a span of 11 months. The word frequency calculations and notebook can be found in a subfolder called Word Frequency Per University. Similarly, the polarity distribution calculations and notebook can be found in a subfolder called Polarities for Each University. The results of both of the notebooks was then implemented in the team's final interactive dashboard.
 
+**During Pandemic Data: EDA, Polarities:** 
+Using the code from the Web Scraping Code folder, the team collected during pandemic data for 16 universities. The data is stored in this folder. With the during pandemic data, the team calculated specific mental health keyword frequencies per university, as well as the polarity distributions for each university over a span of 11 months. The word frequency calculations and notebook can be found in a subfolder called Word Frequency Per University. Similarly, the polarity distribution calculations and notebook can be found in a subfolder called Polarities for Each University. The results of both of the notebooks was then implemented in the team's final interactive dashboard.
+
+**Final Interactive Dashboard:**
 This folder contains the csvs used in our final interactive dashboard, as well as the notebook containing the interactive graphs. To see the dashboard locally, users can upload the notebook and accompanying csv files into datahub. The notebook has also been deployed to a permanent link using Heroku, and can be found here: http://covid19-social-media-trends.herokuapp.com/
 
 
