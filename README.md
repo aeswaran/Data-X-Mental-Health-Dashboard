@@ -1,6 +1,3 @@
-<a href="https://data-x.blog/">
-   <img src="./imgsource/dx_logo.png" alt="Data-X" alt="data-x logo" title="Data-x" align="bottom-right" height="100" />
-</a>
 
 ### IEOR 135 / 290: Applied Data Science with Venture Applications
 
@@ -13,12 +10,20 @@ This repository contains all code notebooks used to create a mental health dashb
 
 Due to the COVID-19 pandemic, our world has shifted everyone’s day to day activities to online platforms. With the increased number of hours sitting in front of technology and limited face-to-face interactions, numerous mental health concerns have emerged. Driven to action, a group of four UC Berkeley students, set out to create an interactive tool that provides an analytical visual of mental health trends for various public and private universities across the nation. The project aims to provide a snapshot of mental health status among college students and track changes in prevalence of mental health issues by using anonymized Reddit data.
 
-The team hopes that their studies of mental health through social media encourages current psychologists, scientists and other researchers to be able to conduct longitudinal studies of mental health past COVID-19, potentially involving studies of different demographics such as children and the elderly. They aim to utilize their results as evidence for potential policy implementation and revision at large universities like UC Berkeley, where the lives of numerous students are at stake and at the discretion of higher authorities who make decisions that can impact student wellbeing.
-
 
 ## 🔍 The Problem The Team Aimed to Solve, and The Solution To The Problem
 
+**The Problem**
+For the last thirteen months, many of us have been in social isolation, unable to visit family, friends, and loved ones in-person; unable to go to class; to the office; to travel; to attend concerts and sports events. The places where we once sought interaction, such as school and work, have slowed their operations, forcing us to shift to a work-from-home situation. These measures have certainly curbed the impact of a deadly virus, but in return have taken a toll on our mental health.
+
+While individuals of all demographics have been struggling, we must face the reality: college students have been arguably facing the most adversity during the pandemic. In fact, according to the National Institute of Health, (71% of college students) indicated increased stress and anxiety due to the COVID-19 outbreak. Multiple stressors were identified that contributed to the increased levels of stress, anxiety, and depressive thoughts among students, including fear and worry about their own health and of their loved ones, difficulty in concentrating, disruptions to sleeping patterns, decreased social interactions due to physical distancing, and increased concerns on academic performance. This in turn has made it difficult for professors to gauge workload of their classes and for mental health clinics to better serve their patients.
+
+Thus the team hoped to alleviate the concerns of professors, psychologists, physicians and other organizations by solving this problem and ultimately increase dialogue and improve outcomes for individuals and families with mental health needs.
+
+**The Solution**
 The team's solution involves producing a high quality analysis that will serve as a point of departure for organizations trying to conduct studies on mental health, an often complex matter to assess. The final product is an interactive dashboard that displays key mental health trends for both private and public universities, as well as a sentiment analysis using social media data. Users can choose one of the 16 universities using a dropdown, as well as one of the mental health keywords available. With the dashboard, the team hopes to provide an in-depth look at mental health and the social effects that may not be able to be analyzed due to public health conditions and to further educate the masses about mental health. The team's final product can be found here: http://covid19-social-media-trends.herokuapp.com/
+
+The team hopes that their studies of mental health through social media encourages current psychologists, scientists and other researchers to be able to conduct longitudinal studies of mental health past COVID-19, potentially involving studies of different demographics such as children and the elderly. They aim to utilize their results as evidence for potential policy implementation and revision at large universities like UC Berkeley, where the lives of numerous students are at stake and at the discretion of higher authorities who make decisions that can impact student wellbeing.
 
 ## 💡 What's Inside the Folders
 
