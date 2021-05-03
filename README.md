@@ -9,7 +9,6 @@
  
 This repository contains all code notebooks used to create a mental health dashboard analyzing 16 different U.S. universities.
 
-
 ## 📁 About The Project
 
 Due to the COVID-19 pandemic, our world has shifted everyone’s day to day activities to online platforms. With the increased number of hours sitting in front of technology and limited face-to-face interactions, numerous mental health concerns have emerged. Driven to action, a group of four UC Berkeley students, set out to create an interactive tool that provides an analytical visual of mental health trends for various public and private universities across the nation. The project aims to provide a snapshot of mental health status among college students and track changes in prevalence of mental health issues by using anonymized Reddit data.
@@ -17,14 +16,9 @@ Due to the COVID-19 pandemic, our world has shifted everyone’s day to day acti
 The team hopes that their studies of mental health through social media encourages current psychologists, scientists and other researchers to be able to conduct longitudinal studies of mental health past COVID-19, potentially involving studies of different demographics such as children and the elderly. They aim to utilize their results as evidence for potential policy implementation and revision at large universities like UC Berkeley, where the lives of numerous students are at stake and at the discretion of higher authorities who make decisions that can impact student wellbeing.
 
 
-
 ## 💡 What's inside the folders
--**EDA Cleaning :** 
-
-
-
-
-
+-**Web Scraping Code for Data Collection :** 
+ To efficiently collect data, our team used a python notebook with web scraping code. The notebook can be found in this folder. To get specific posts from each university, our team changed the subreddit thread according to each university, and the before and after UNIX codes using data conversions.
 
 
 -**Final Interactive Dashboard :**
@@ -54,8 +48,8 @@ List of Dependencies:
 ## 📧 Contact us
 
 - 🐬**Ashritha Eswaran:** aeswaran@berkeley.edu ([LinkedIn](www.linkedin.com/in/ashritha-e-703aba134))
-- 🐶**Sara Siddiqui:** nourian@berkeley.edu ([LinkedIn](www.linkedin.com/in/arashnourian))
-- 🐯**Royalle Hurney:** sidhu @berkeley.edu ([LinkedIn](https://www.linkedin.com/in/ikhlaq/))
+- 🐶**Sara Siddiqui:** sarasiddiqui@berkeley.edu ([LinkedIn](www.linkedin.com/in/arashnourian))
+- 🐯**Royalle Hurney:** royallehurney@berkeley.edu ([LinkedIn](https://www.linkedin.com/in/ikhlaq/))
 - 🐱**Helen Zhao:** minyiz0525@berkeley.edu ([LinkedIn](www.linkedin.com/in/arashnourian))
 
 
