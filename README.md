@@ -16,7 +16,11 @@ Due to the COVID-19 pandemic, our world has shifted everyone’s day to day acti
 The team hopes that their studies of mental health through social media encourages current psychologists, scientists and other researchers to be able to conduct longitudinal studies of mental health past COVID-19, potentially involving studies of different demographics such as children and the elderly. They aim to utilize their results as evidence for potential policy implementation and revision at large universities like UC Berkeley, where the lives of numerous students are at stake and at the discretion of higher authorities who make decisions that can impact student wellbeing.
 
 
-## 💡 What's inside the folders
+## 🔍 The Problem The Team Aimed to Solve, and The Solution To The Problem
+
+The team's solution involves producing a high quality analysis that will serve as a point of departure for organizations trying to conduct studies on mental health, an often complex matter to assess. The final product is an interactive dashboard that displays key mental health trends for both private and public universities, as well as a sentiment analysis using social media data. Users can choose one of the 16 universities using a dropdown, as well as one of the mental health keywords available. With the dashboard, the team hopes to provide an in-depth look at mental health and the social effects that may not be able to be analyzed due to public health conditions and to further educate the masses about mental health. The team's final product can be found here: http://covid19-social-media-trends.herokuapp.com/
+
+## 💡 What's Inside the Folders
 
 **Web Scraping Code for Data Collection:** 
 To efficiently collect data, the team used a python notebook with web scraping code. The notebook can be found in this folder. To get specific posts from each university, the team changed the subreddit thread according to each university, and the before and after UNIX codes using time conversions.
@@ -29,10 +33,6 @@ Using the code from the Web Scraping Code folder, the team collected during pand
 
 **Final Interactive Dashboard:**
 This folder contains the csvs used in our final interactive dashboard, as well as the notebook containing the interactive graphs. To see the dashboard locally, users can upload the notebook and accompanying csv files into datahub. The notebook has also been deployed to a permanent link using Heroku, and can be found here: http://covid19-social-media-trends.herokuapp.com/
-
-
-## 🔍 what problem you have solved, and how the solution works.
-
 
 
 ## 🧾 Credits
