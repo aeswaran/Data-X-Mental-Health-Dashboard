@@ -59,7 +59,7 @@ List of Dependencies:
 
 ## 📧 Contact us
 
-- 🐬 **Ashritha Eswaran:** aeswaran@berkeley.edu ([LinkedIn])(https://linkedin.com/in/ashritha-e-703aba134)
+- 🐬 **Ashritha Eswaran:** aeswaran@berkeley.edu ([LinkedIn])(https://www.linkedin.com/in/ashritha-e-703aba134)
 - 🐶 **Sara Siddiqui:** sarasiddiqui@berkeley.edu ([LinkedIn](www.linkedin.com/in/arashnourian))
 - 🐯 **Royalle Hurney:** royallehurney@berkeley.edu ([LinkedIn](www.linkedin.com/in/royalle-hurney))
 - 🐱 **Helen Zhao:** minyiz0525@berkeley.edu ([LinkedIn](www.linkedin.com/in/arashnourian))
