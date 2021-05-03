@@ -11,7 +11,7 @@ This repository contains all code notebooks used to create a mental health dashb
 Due to the COVID-19 pandemic, our world has shifted everyone’s day to day activities to online platforms. With the increased number of hours sitting in front of technology and limited face-to-face interactions, numerous mental health concerns have emerged. Driven to action, a group of four UC Berkeley students, set out to create an interactive tool that provides an analytical visual of mental health trends for various public and private universities across the nation. The project aims to provide a snapshot of mental health status among college students and track changes in prevalence of mental health issues by using anonymized Reddit data.
 
 
-## 🔍 The Problem The Team Aimed to Solve, and The Solution To The Problem
+## 🔍 The Problem The Team Aimed to Solve, and The Solution
 
 **The Problem**
 
@@ -59,7 +59,7 @@ List of Dependencies:
 
 ## 📧 Contact us
 
-- 🐬 **Ashritha Eswaran:** aeswaran@berkeley.edu ([LinkedIn])(www.linkedin.com/in/ashritha-e-703aba134))
+- 🐬 **Ashritha Eswaran:** aeswaran@berkeley.edu [LinkedIn](www.linkedin.com/in/ashritha-e-703aba134)
 - 🐶 **Sara Siddiqui:** sarasiddiqui@berkeley.edu ([LinkedIn](www.linkedin.com/in/arashnourian))
 - 🐯 **Royalle Hurney:** royallehurney@berkeley.edu ([LinkedIn](www.linkedin.com/in/royalle-hurney))
 - 🐱 **Helen Zhao:** minyiz0525@berkeley.edu ([LinkedIn](www.linkedin.com/in/arashnourian))
