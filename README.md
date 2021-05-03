@@ -2,7 +2,7 @@
 ### IEOR 135 / 290: Applied Data Science with Venture Applications
 
 
-# Data-X-Mental-Health-Dashboard
+# Data-X Mental Health Dashboard
  
 This repository contains all code notebooks used to create a mental health dashboard analyzing 16 different U.S. universities.
 
