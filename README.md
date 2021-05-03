@@ -17,7 +17,7 @@ Due to the COVID-19 pandemic, our world has shifted everyone’s day to day acti
 
 For the last thirteen months, many of us have been in social isolation, unable to visit family, friends, and loved ones in-person; unable to go to class; to the office; to travel; to attend concerts and sports events. The places where we once sought interaction, such as school and work, have slowed their operations, forcing us to shift to a work-from-home situation. These measures have certainly curbed the impact of a deadly virus, but in return have taken a toll on our mental health.
 
-While individuals of all demographics have been struggling, we must face the reality: college students have been arguably facing the most adversity during the pandemic. In fact, according to the National Institute of Health, (71% of college students) indicated increased stress and anxiety due to the COVID-19 outbreak. Multiple stressors were identified that contributed to the increased levels of stress, anxiety, and depressive thoughts among students, including fear and worry about their own health and of their loved ones, difficulty in concentrating, disruptions to sleeping patterns, decreased social interactions due to physical distancing, and increased concerns on academic performance. This in turn has made it difficult for professors to gauge workload of their classes and for mental health clinics to better serve their patients.
+While individuals of all demographics have been struggling, we must face the reality: college students have been arguably facing the most adversity during the pandemic. In fact, according to the National Institute of Health, 71% of college students (Son, Changwon et al, “Effects of COVID-19 on College Students' Mental Health in the United States") indicated increased stress and anxiety due to the COVID-19 outbreak. Multiple stressors were identified that contributed to the increased levels of stress, anxiety, and depressive thoughts among students, including fear and worry about their own health and of their loved ones, difficulty in concentrating, disruptions to sleeping patterns, decreased social interactions due to physical distancing, and increased concerns on academic performance. This in turn has made it difficult for professors to gauge workload of their classes and for mental health clinics to better serve their patients.
 
 Thus the team hoped to alleviate the concerns of professors, psychologists, physicians and other organizations by solving this problem and ultimately increase dialogue and improve outcomes for individuals and families with mental health needs.
 
@@ -30,7 +30,7 @@ The team hopes that their studies of mental health through social media encourag
 ## 💡 What's Inside the Folders
 
 **Web Scraping Code for Data Collection:** 
-To efficiently collect data, the team used a python notebook with web scraping code. The notebook can be found in this folder. To get specific posts from each university, the team changed the subreddit thread according to each university, and the before and after UNIX codes using time conversions.
+To efficiently collect data, the team used a Python notebook with web scraping code. The notebook can be found in this folder. To get specific posts from each university, the team changed the subreddit thread according to each university, and the before and after UNIX codes using time conversions.
 
 **Pre-Pandemic Data: EDA, Polarities:** 
 Using the code from the Web Scraping Code folder, the team collected pre-pandemic data for 16 universities. The data is stored in this folder. With the pre-pandemic data, the team calculated specific mental health keyword frequencies per university, as well as the polarity distributions for each university over a span of 11 months. The word frequency calculations and notebook can be found in a subfolder called Word Frequency Per University. Similarly, the polarity distribution calculations and notebook can be found in a subfolder called Polarities for Each University. The results of both of the notebooks was then implemented in the team's final interactive dashboard.
@@ -62,7 +62,7 @@ List of Dependencies:
 - 🐬 **Ashritha Eswaran:** aeswaran@berkeley.edu, [LinkedIn](https://www.linkedin.com/in/ashritha-e-703aba134)
 - 🐶 **Sara Siddiqui:** sarasiddiqui@berkeley.edu, [LinkedIn](https://www.linkedin.com/in/sara-sidd)
 - 🐯 **Royalle Hurney:** royallehurney@berkeley.edu, [LinkedIn](https://www.linkedin.com/in/royalle-hurney)
-- 🐱 **Helen Zhao:** minyiz0525@berkeley.edu, [LinkedIn](https://www.linkedin.com/in/minyizhaoit/)
+- 🐱 **Helen Zhao:** minyiz0525@berkeley.edu, [LinkedIn](https://www.linkedin.com/in/arashnourian)
 
 
 ## 🎓 License
