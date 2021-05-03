@@ -20,3 +20,31 @@ This repository contains all code notebooks used to create a mental health dashb
 
 
 ## Final Interactive Dashboard
+
+
+
+
+## 🧾 Credits
+
+List of Dependencies:
+
+* [Python 3](https://www.python.org/)
+* [Jupyter](https://jupyter.org/)
+* [Anaconda](https://www.anaconda.com/)
+* [NumPy](http://www.numpy.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Scikit-Learn](http://scikit-learn.org/stable/index.html)
+* [TensorFlow](https://www.tensorflow.org/)
+* [Keras](https://keras.io/)
+
+
+
+
+
+## 📧 Contact us
+
+- 🐬**Ikhlaq Sidhu:** sidhu @ berkeley.edu ([LinkedIn](https://www.linkedin.com/in/ikhlaq/))
+- 🐶**Arash Nourian:** nourian@berkeley.edu ([LinkedIn](www.linkedin.com/in/arashnourian))
+- 🐯**Ikhlaq Sidhu:** sidhu @berkeley.edu ([LinkedIn](https://www.linkedin.com/in/ikhlaq/))
+- 🐱**Helen Zhao:** minyiz0525@berkeley.edu ([LinkedIn](www.linkedin.com/in/arashnourian))
