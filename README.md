@@ -48,3 +48,8 @@ List of Dependencies:
 - 🐶**Arash Nourian:** nourian@berkeley.edu ([LinkedIn](www.linkedin.com/in/arashnourian))
 - 🐯**Ikhlaq Sidhu:** sidhu @berkeley.edu ([LinkedIn](https://www.linkedin.com/in/ikhlaq/))
 - 🐱**Helen Zhao:** minyiz0525@berkeley.edu ([LinkedIn](www.linkedin.com/in/arashnourian))
+
+
+## 🎓 License
+
+[Apache2](https://www.apache.org/licenses/LICENSE-2.0)
