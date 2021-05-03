@@ -29,6 +29,7 @@ The team hopes that their studies of mental health through social media encourag
 
 -**Final Interactive Dashboard :**
 
+This folder contains the csvs used in our final interactive dashboard, as well as the notebook containing the interactive graphs. To see the dashboard locally, users can upload the notebook and accompanying csv files into datahub. The notebook has also been deployed to a permanent link using Heroku, and can be found here: http://covid19-social-media-trends.herokuapp.com/
 
 
 ## 🔍 what problem you have solved, and how the solution works.
@@ -52,9 +53,9 @@ List of Dependencies:
 
 ## 📧 Contact us
 
-- 🐬**Ikhlaq Sidhu:** sidhu @ berkeley.edu ([LinkedIn](https://www.linkedin.com/in/ikhlaq/))
-- 🐶**Arash Nourian:** nourian@berkeley.edu ([LinkedIn](www.linkedin.com/in/arashnourian))
-- 🐯**Ikhlaq Sidhu:** sidhu @berkeley.edu ([LinkedIn](https://www.linkedin.com/in/ikhlaq/))
+- 🐬**Ashritha Eswaran:** aeswaran@berkeley.edu ([LinkedIn](www.linkedin.com/in/ashritha-e-703aba134))
+- 🐶**Sara Siddiqui:** nourian@berkeley.edu ([LinkedIn](www.linkedin.com/in/arashnourian))
+- 🐯**Royalle Hurney:** sidhu @berkeley.edu ([LinkedIn](https://www.linkedin.com/in/ikhlaq/))
 - 🐱**Helen Zhao:** minyiz0525@berkeley.edu ([LinkedIn](www.linkedin.com/in/arashnourian))
 
 
