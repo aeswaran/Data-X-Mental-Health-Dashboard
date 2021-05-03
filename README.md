@@ -30,7 +30,8 @@ The team hopes that their studies of mental health through social media encourag
 -**Final Interactive Dashboard :**
 
 
-##🔍 what problem you have solved, and how the solution works.
+
+## 🔍 what problem you have solved, and how the solution works.
 
 
 
