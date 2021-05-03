@@ -59,10 +59,10 @@ List of Dependencies:
 
 ## 📧 Contact us
 
-- 🐬**Ashritha Eswaran:** aeswaran@berkeley.edu ([LinkedIn](www.linkedin.com/in/ashritha-e-703aba134))
-- 🐶**Sara Siddiqui:** sarasiddiqui@berkeley.edu ([LinkedIn](www.linkedin.com/in/arashnourian))
-- 🐯**Royalle Hurney:** royallehurney@berkeley.edu ([LinkedIn](https://www.linkedin.com/in/ikhlaq/))
-- 🐱**Helen Zhao:** minyiz0525@berkeley.edu ([LinkedIn](www.linkedin.com/in/arashnourian))
+- 🐬 **Ashritha Eswaran:** aeswaran@berkeley.edu ([LinkedIn](www.linkedin.com/in/ashritha-e-703aba134))
+- 🐶 **Sara Siddiqui:** sarasiddiqui@berkeley.edu ([LinkedIn](www.linkedin.com/in/arashnourian))
+- 🐯 **Royalle Hurney:** royallehurney@berkeley.edu ([LinkedIn](https://www.linkedin.com/in/ikhlaq/))
+- 🐱 **Helen Zhao:** minyiz0525@berkeley.edu ([LinkedIn](www.linkedin.com/in/arashnourian))
 
 
 ## 🎓 License
