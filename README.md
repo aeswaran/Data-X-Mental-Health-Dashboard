@@ -62,7 +62,7 @@ List of Dependencies:
 - 🐬 **Ashritha Eswaran:** aeswaran@berkeley.edu, [LinkedIn](https://www.linkedin.com/in/ashritha-e-703aba134)
 - 🐶 **Sara Siddiqui:** sarasiddiqui@berkeley.edu, [LinkedIn](https://www.linkedin.com/in/sara-sidd)
 - 🐯 **Royalle Hurney:** royallehurney@berkeley.edu, [LinkedIn](https://www.linkedin.com/in/royalle-hurney)
-- 🐱 **Helen Zhao:** minyiz0525@berkeley.edu, [LinkedIn](https://www.linkedin.com/in/arashnourian)
+- 🐱 **Helen Zhao:** minyiz0525@berkeley.edu, [LinkedIn](https://www.linkedin.com/in/minyizhaoit)
 
 
 ## 🎓 License
